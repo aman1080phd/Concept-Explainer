@@ -1,7 +1,7 @@
 Video URL : https://drive.google.com/file/d/1BWcP68pb8DxC9oy5EMWKKMzKANvMlSp2/view?usp=sharing
 
 
-NOTES:
+NOTES :
 
 Normalization is a process of organizing the data in db to avoid the redundency(duplication).
 
