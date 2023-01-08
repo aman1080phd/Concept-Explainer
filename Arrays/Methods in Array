@@ -19,6 +19,7 @@ Output: [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 Arrays.equals(array1, array2) 
 int[] arr1 = {1,2,3};
 int[] arr2 = {1,2,3};
+
 Boolean flag = Arrays.equals(arr1,arr2);
 Output: true 
 
@@ -32,6 +33,7 @@ Array.sort(array); | Sorts the complete array in ascending order |
 Arrays.sort(array, fromIndex, endIndex); | Sorts the specified range of array in ascending order |
 
 Arrays.sort(array of objects, Comparator<>) | Sorts the array according to the comparator provided |
+
 arr.clone(); 
 int a[] = { 1, 8, 3 ];
 int b[] = a.clone();
